@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbox-shadow"
+			],
+			[
+				"shod",
+				"box-shadow\tproperty"
+			],
+			[
+				"sha",
+				"scroll-behavior\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"colo",
+				"flood-color\tproperty"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-image"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bod",
+				"body\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Sort Lines (Case Sensitive)"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tanisha jain/Desktop/api/my-app/package.json",
+		"/C/Users/tanisha jain/Desktop/api/my-app/README.md",
+		"/C/Users/tanisha jain/Desktop/api/my-app/src/App.css",
+		"/C/Users/tanisha jain/Desktop/api/my-app/src/App.js",
+		"/C/Users/tanisha jain/Desktop/exercisePromises.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/node_modules/.bin/sha.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/registerServiceWorker.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/README.md",
+		"/C/Users/tanisha jain/Desktop/robofriends/package-lock.json",
+		"/C/Users/tanisha jain/Desktop/robofriends/package.json",
+		"/C/Users/tanisha jain/Desktop/robofriends/public/manifest.json",
+		"/C/Users/tanisha jain/Desktop/robofriends/public/index.html",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/index.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/components/card.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/containers/app.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/index.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/card.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/robots.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/components/scroll.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/components/searchbox.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/containers/app.css",
+		"/C/Users/tanisha jain/Desktop/card.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/node_modules/card.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/components/Cardlist.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/scroll.js",
+		"/C/Users/tanisha jain/Desktop/api/my-app/public/manifest.json",
+		"/C/Users/tanisha jain/Desktop/s.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/card.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/app.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/Cardlist.js",
+		"/C/Users/tanisha jain/Desktop/Chrome Passwords.csv",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/Hello.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/Hello.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/App.test.js",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/App.css",
+		"/C/Users/tanisha jain/Desktop/robofriends/src/App.js",
+		"/C/Users/tanisha jain/Desktop/tanisha/background-generator-/package.json",
+		"/C/Users/tanisha jain/Desktop/tanisha/background-generator-/README.md",
+		"/C/Users/tanisha jain/Desktop/tanisha/background-generator-/backgroundgenerator.html",
+		"/C/Users/tanisha jain/Desktop/tanisha/background-generator-/background.css",
+		"/C/Users/tanisha jain/Desktop/tanisha/background-generator-/backgroundgenerator.js",
+		"/C/Users/tanisha jain/Desktop/domeventshtml.html",
+		"/C/Users/tanisha jain/Desktop/shoppingstyle.css",
+		"/C/Users/tanisha jain/Desktop/shoppinglist.html",
+		"/C/Users/tanisha jain/Desktop/scopeexerice.js",
+		"/C/Users/tanisha jain/Desktop/start-here-guidelines/travelguide from git.html",
+		"/C/Users/tanisha jain/Desktop/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/tanisha jain/Desktop/shoppinglist.js",
+		"/C/Users/tanisha jain/Desktop/loops.js",
+		"/C/Users/tanisha jain/Desktop/facebook.js",
+		"/C/Users/tanisha jain/Desktop/arrays.js",
+		"/C/Users/tanisha jain/Desktop/calculator.js",
+		"/C/Users/tanisha jain/Desktop/startuppage1.html",
+		"/C/Users/tanisha jain/Desktop/startuppage.html",
+		"/C/Users/tanisha jain/Desktop/bootcolumn.html",
+		"/C/Users/tanisha jain/Desktop/fb.html",
+		"/C/Users/tanisha jain/Desktop/background.html",
+		"/C/Users/tanisha jain/Desktop/boot.html",
+		"/C/Users/tanisha jain/Desktop/hello.css",
+		"/C/Users/tanisha jain/Desktop/style.css",
+		"/C/Users/tanisha jain/Desktop/robo.html",
+		"/C/Users/tanisha jain/Desktop/sublime text/sublime_text.exe",
+		"/C/Users/tanisha jain/Desktop/package.jason",
+		"/C/Users/tanisha jain/Desktop/tanisha/background.css",
+		"/C/Users/tanisha jain/Desktop/tanisha/backgroundgenerator.html",
+		"/C/Users/tanisha jain/Desktop/tanisha/backgroundgenerator.js",
+		"/C/Users/tanisha jain/Desktop/robot.html",
+		"/C/Users/tanisha jain/Desktop/sty.css",
+		"/C/Users/tanisha jain/Desktop/tj.html",
+		"/C/Users/tanisha jain/Desktop/register.html",
+		"/C/Users/tanisha jain/Desktop/test.cpp",
+		"/C/Users/tanisha jain/Desktop/index1.html",
+		"/C/Users/tanisha jain/Desktop/style1.css",
+		"/C/Users/tanisha jain/Desktop/hello.html",
+		"/C/Users/tanisha jain/Desktop/css.html",
+		"/C/Users/tanisha jain/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
